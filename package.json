@@ -1,0 +1,28 @@
+{
+  "name": "authentication-project",
+  "version": "1.0.0",
+  "description": "A simple authentication project implemented with the Node.js and MongoDB.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoonasHeinonen/Authentication-project.git"
+  },
+  "keywords": [
+    "authentication",
+    "user"
+  ],
+  "author": "Joonas Heinonen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoonasHeinonen/Authentication-project/issues"
+  },
+  "homepage": "https://github.com/JoonasHeinonen/Authentication-project#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "mongoose": "^5.8.11"
+  }
+}
